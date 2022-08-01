@@ -1,0 +1,24 @@
+Notes
+
+----------
+
+Command line
+
+pwd: command to print present working directory.
+tree: package for listing directories and files in a hierarchical way. 
+which: gives location of a program
+.. : sequence of characters that means 'go one level back.'
+
+shell = command line = prompt
+
+----------
+
+HTML Basics
+
+Elements
+
+Opening and closing Taps
+HTML Attributes
+Element content
+
+
