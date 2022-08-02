@@ -1,0 +1,26 @@
+.block1 {
+    width: 40vw;
+    height: 20rem;
+    background-color: red;
+    text-align: left;
+    color: white;
+    box-sizing: border-box;
+}
+.block1 > .blockhead {
+    text-align: center;
+}
+.block2 {
+    width: 40vw;
+    height: 20rem;
+    background-color: red;
+    text-align: left;
+    color: white;
+    box-sizing: border-box;
+}
+.block2 > .blockhead {
+    text-align: center;
+}
+.block3 > img {
+    width: 40vw;
+    height: 20rem;
+}
